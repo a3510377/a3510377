@@ -9,10 +9,9 @@
     </a>
     <br/>
     <br/>
-    <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=a3510377&show_icons=true&theme=react"/>+
-    <img alt="https://github-readme-stats.vercel.app/api?username=a3510377&show_icons=true&theme=radical"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&langs_count=8&theme=radical)
-![Anurag's github stats]()
+    <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=a3510377&show_icons=true&theme=react"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=a3510377&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&langs_count=8&theme=radical"/>
   </p>
 
   
