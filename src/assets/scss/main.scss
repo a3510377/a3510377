@@ -1,8 +1,6 @@
 *,
 *::before,
 *::after {
-    -webkit-box-sizing: inherit;
-    -moz-box-sizing: inherit;
     box-sizing: inherit;
 }
 html,
@@ -10,6 +8,10 @@ body {
     background-color: var(--styleMode-background-color) !important;
     color: var(--styleMode-color) !important;
     margin: 0;
+}
+/*  */
+.test {
+    background: linear-gradient(6deg, rgba(233, 0, 192, 1) 12%, rgba(255, 255, 0, 0.8) 81%);
 }
 
 /* mouse */
