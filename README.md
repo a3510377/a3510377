@@ -8,8 +8,8 @@
         <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCTDmw3PZcsXXWqoLxbT6gCA&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
     </a><br/><br/>
     <img src="https://github-readme-stats.vercel.app/api?username=a3510377&show_icons=true&theme=radical" /><br />
-    不要問我 `python` 會最高
-    明明我 `python` 寫很少阿 0.0
+    不要問我 <strong>python</strong> 會最高
+    明明我 <strong>python</strong> 寫很少阿 0.0
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&layout=compact&theme=radical" /><br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&langs_count=8&theme=radical" /><br />
