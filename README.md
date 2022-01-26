@@ -36,6 +36,8 @@
 <a href="https://sass-lang.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 </a>
+不要問我 `python` 會最高
+明明我 `python` 寫很少阿 0.0
 <a href="https://vuepress.vuejs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> 
 </a>
