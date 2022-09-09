@@ -10,14 +10,7 @@
 
 我是猴子，一隻穿梭於程式海的猴貓。目前高中一年級。
 
-<p align="center">
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=a3510377&show_icons=true&theme=radical" /><br />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&layout=compact&theme=radical&locale=cn" /><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&langs_count=8&theme=radical&locale=cn" /><br />
-</p>
-<hr>
+<img src="./info.svg"/>
 
 <!-- icons https://github.com/Envoy-VC/awesome-badges -->
 
