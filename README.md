@@ -10,7 +10,16 @@
 
 我是猴子，一隻穿梭於程式海的猴貓。目前高中一年級。
 
-<svg xmlns="http://www.w3.org/2000/svg" width="795" height="405" xmlns:xlink="http://www.w3.org/1999/xlink" role="img"><image y="0" x="0" width="495" height="195" xlink:href="https://github-readme-stats.vercel.app/api?username=a3510377&amp;show_icons=true&amp;theme=radical"></image><image x="495" y="0" width="300" height="405" xlink:href="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&amp;langs_count=8&amp;theme=radical&amp;locale=cn"></image><image x="30" y="165" width="350" height="165" style="transform: scale(1.2)" xlink:href="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&amp;layout=compact&amp;theme=radical&amp;locale=cn"></image></svg>
+<p align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=a3510377&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&layout=compact&theme=radical&locale=cn" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&langs_count=8&theme=radical&locale=cn" />
+  <br />
+</p>
+<hr>
 
 <!-- icons https://github.com/Envoy-VC/awesome-badges -->
 
