@@ -14,8 +14,8 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=a3510377&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&layout=compact&theme=radical&locale=cn" />
-  <br />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&layout=compact&theme=radical&locale=cn" />
+  <br /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&langs_count=8&theme=radical&locale=cn" />
   <br />
 </p>
