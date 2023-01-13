@@ -9,7 +9,7 @@
 ## 👨🏻‍💻 About me
 
 - 🔭 &nbsp; I’m currently learning `Basic Electricity` school...
-- 💼 &nbsp; student?.
+- 💼 &nbsp; student?
 
 ## 🛠 Tech Stack
 
