@@ -13,7 +13,7 @@
 
 ## 🛠 Tech Stack
 
-- 💻 &nbsp; JS/TS | Python | Golang | C/C++ |
+- 💻 &nbsp; JS/TS | Python | Golang | C/C++ (for base arduino) |
 - 🌐 &nbsp; HTML5 | CSS3 | Javascript | Node | Vite | Vue | Typescript | Scss | Express |
 - 🛢 &nbsp; MongoDB | SQLite | MYSQL |
 - 🔧 &nbsp; Visual Studio code | Git | Docker | Raspberry | Arduino |
