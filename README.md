@@ -13,11 +13,11 @@
 
 ## 🛠 Tech Stack
 
-- 💻 &nbsp; `javascript` | `typescript` | `Python` | `Golang` | `C/C++ (for base arduino)` | `mcfunction` |
-- 🌐 &nbsp; `HTML5` | `CSS3` | `Node` | `Vite` | `Vue` | `Scss` | `Express` |
-- 🛢 &nbsp; `MongoDB` | `SQLite` | `MYSQL` |
-- 🔧 &nbsp; `Visual Studio code` | `Git` | `Docker` |
-- 🖥 &nbsp; `Heroku` | `repl.it` | `Raspberry` | `Arduino` |
+- 💻 &nbsp; | `javascript` | `typescript` | `Python` | `Golang` | `C/C++ (for base arduino)` | `mcfunction` |
+- 🌐 &nbsp; | `HTML5` | `CSS3` | `Node` | `Vite` | `Vue` | `Scss` | `Express` |
+- 🛢 &nbsp; | `MongoDB` | `SQLite` | `MYSQL` |
+- 🔧 &nbsp; | `Visual Studio code` | `Git` | `Docker` |
+- 🖥 &nbsp; | `Heroku` | `repl.it` | `Raspberry` | `Arduino` |
 
 <p align="center">
   <br />
