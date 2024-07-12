@@ -6,7 +6,7 @@
 
 ## 🛠 Tech Stack
 
-- 💻 | `javascript` | `typescript` | `Python` | `Golang` | `C/C++ (for base arduino)` | `mcfunction` |
+- 💻 | `javascript` | `typescript` | `Python` | `Golang` | `C/C++ (for base arduino)` | `mcfunction` | `java(only base)` |
 - 🌐 | `HTML5` | `CSS3` | `Node` | `Vite` | `Vue` | `Scss` | `Express` |
 - 🛢 | `MongoDB` | `SQLite` | `MYSQL` |
 - 🔧 | `Visual Studio code` | `Git` | `Docker` |
