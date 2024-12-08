@@ -14,19 +14,21 @@
 
 ### Frontend
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vitejs/vitejs-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nuxtjs/nuxtjs-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vuejs/vuejs-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/sass/sass-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/html5/html5-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/css3/css3-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postcss/postcss-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tailwindcss/tailwindcss-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/socketio/socketio-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg' width="45" height="45" />
+<div>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vitejs/vitejs-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nuxtjs/nuxtjs-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vuejs/vuejs-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/sass/sass-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/html5/html5-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/css3/css3-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postcss/postcss-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tailwindcss/tailwindcss-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/socketio/socketio-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg' width="45" height="45" />
+</div>
 
 ### Backend
 
