@@ -32,52 +32,62 @@
 
 ### Backend
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongoose/mongoose-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/go/go-original.svg' width="45" height="45" />
+<div>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongoose/mongoose-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/go/go-original.svg' width="45" height="45" />
+</div>
 
 ### Database
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/sqlite/sqlite-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg' width="45" height="45" />
+<div>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/sqlite/sqlite-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg' width="45" height="45" />
+</div>
 
 ### System
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/windows11/windows11-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/ubuntu/ubuntu-original.svg' width="45" height="45" />
+<div>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/windows11/windows11-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/ubuntu/ubuntu-original.svg' width="45" height="45" />
+</div>
 
 ### Other/Tools
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vscode/vscode-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/visualstudio/visualstudio-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/githubactions/githubactions-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/github/github-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/yarn/yarn-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/intellij/intellij-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/arduino/arduino-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/raspberrypi/raspberrypi-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/portainer/portainer-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postman/postman-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/discordjs/discordjs-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/heroku/heroku-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/replit/replit-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/googlecloud/googlecloud-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cloudflare/cloudflare-original.svg' width="45" height="45" />
+<div>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vscode/vscode-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/visualstudio/visualstudio-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/githubactions/githubactions-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/github/github-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/yarn/yarn-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/intellij/intellij-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/arduino/arduino-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/raspberrypi/raspberrypi-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/portainer/portainer-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postman/postman-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/discordjs/discordjs-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/heroku/heroku-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/replit/replit-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/googlecloud/googlecloud-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cloudflare/cloudflare-original.svg' width="45" height="45" />
+</div>
 
 ### Only basic skills
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/java/java-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/rust/rust-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/c/c-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cplusplus/cplusplus-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/csharp/csharp-original.svg' width="45" height="45" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/php/php-original.svg' width="45" height="45" />
+<div>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/java/java-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/rust/rust-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/c/c-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cplusplus/cplusplus-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/csharp/csharp-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/php/php-original.svg' width="45" height="45" />
+</div>
 
 <p align="center">
   <br />
