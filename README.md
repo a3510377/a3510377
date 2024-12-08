@@ -26,9 +26,9 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tailwindcss/tailwindcss-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg' width="45" height="45" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/socketio/socketio-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jquery/jquery-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/socketio/socketio-original.svg' width="45" height="45" />
 </div>
 
 ### Backend
@@ -36,11 +36,11 @@
 <div>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongoose/mongoose-original.svg' width="45" height="45" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/go/go-original.svg' width="45" height="45" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flask/flask-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/swagger/swagger-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flask/flask-original.svg' width="45" height="45" />
 </div>
 
 ### Database
@@ -66,7 +66,6 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/visualstudio/visualstudio-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/githubactions/githubactions-original.svg' width="45" height="45" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/github/github-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/yarn/yarn-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/intellij/intellij-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/arduino/arduino-original.svg' width="45" height="45" />
@@ -81,13 +80,13 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cloudflare/cloudflare-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/putty/putty-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/github/github-original.svg' width="45" height="45" />
 </div>
 
 ### Only basic skills
 
 <div>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/java/java-original.svg' width="45" height="45" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/rust/rust-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/c/c-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cplusplus/cplusplus-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/csharp/csharp-original.svg' width="45" height="45" />
@@ -96,6 +95,7 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/electron/electron-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flutter/flutter-original.svg' width="45" height="45" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/svelte/svelte-original.svg' width="45" height="45" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/rust/rust-original.svg' width="45" height="45" />
 </div>
 
 <p align="center">
