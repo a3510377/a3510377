@@ -1,4 +1,4 @@
-## 👨🏻‍💻 About me
+[## 👨🏻‍💻 About me
 
 - [Github](https://github.com/a3510377)
 - 🔭 I’m currently learning `Basic Electricity` school...
@@ -110,3 +110,4 @@
 <hr>
 
 <!-- icons https://github.com/Envoy-VC/awesome-badges -->
+](https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&hide=C,Makefile,Html&langs_count=8)
