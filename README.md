@@ -1,4 +1,4 @@
-[## 👨🏻‍💻 About me
+## 👨🏻‍💻 About me
 
 - [Github](https://github.com/a3510377)
 - 🔭 I’m currently learning `Basic Electricity` school...
