@@ -104,10 +104,9 @@
   <br/> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&layout=compact&theme=radical&locale=cn" />
   <br /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&langs_count=8&theme=radical&locale=cn&hide=C" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&hide=C,Makefile,Html&langs_count=8&theme=radical&locale=cn" />
   <br />
 </p>
 <hr>
 
 <!-- icons https://github.com/Envoy-VC/awesome-badges -->
-](https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&hide=C,Makefile,Html&langs_count=8)
